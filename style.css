@@ -34,11 +34,6 @@ body {
     margin: 0 auto;
     margin-top: 30px;
 }
-.left img {
-    max-width: 100%;
-    height: auto;
-    width: auto;
-}
 .right {
     margin-top: 3rem;
     margin-left: 3rem;
@@ -129,6 +124,9 @@ ion-icon:hover {
         flex-direction: column;
         width: 80%;
         margin-bottom: 4rem;
+    }
+    .left img {
+    max-width: 100%;
     }
     .right {
         margin-left: 0;
