@@ -1,5 +1,5 @@
 # Frontend Mentor - Huddle landing page with single introductory section
-
+Live: https://remigiuszgithub.github.io/Huddle-landing-page-with-a-single-introductory-section/
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
